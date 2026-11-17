@@ -1,4 +1,5 @@
 # Timeboxing Virtual Assistant
+[Download the latest release](https://github.com/hiremeforwork/timeboxing/releases)
 
 Timeboxing is a time management technique that involves allocating specific time periods, called time boxes, for completing tasks or activities. It is a structured approach to managing time and improving productivity by setting clear boundaries and focusing on one task at a time.
 
